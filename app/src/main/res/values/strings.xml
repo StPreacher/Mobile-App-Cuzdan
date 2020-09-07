@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Cüzdan</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string-array name="gunler">
+
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+
+
+    </string-array>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="AYLIK_GELİR">*Buraya aylık gelirinizi, bir ayın ortalama hangi gününde aldığınızın bilgisini giriniz</string>
+    <string name="KAYDET">Kaydet</string>
+    <string name="al_fiyat">Alış Fiyatı</string>
+    <string name="sat_fiyat">Satış Fiyatı</string>
+    <string name="ka_adet_eyre_iniz_var">Kaç adet çeyreğiniz var ?</string>
+    <string name="hesapla">Hesapla</string>
+    <string name="toplam_paran_z">Toplam Paranız</string>
+    <string name="harcanan_yer">Harcanan Yer</string>
+    <string name="tutar">Tutar</string>
+    <string name="mesaj">Mesaj</string>
+    <string name="g_nder">GÖNDER</string>
+    <string name="eklenecek_tutar">Eklenecek Tutar</string>
+    <string name="ekle">EKLE</string>
+
+
+</resources>

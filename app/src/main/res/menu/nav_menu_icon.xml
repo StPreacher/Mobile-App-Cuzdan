@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/menu_profile"
+            android:icon="@drawable/ic_profile"
+            android:title="Profilim" />
+
+        <item
+            android:id="@+id/menu_doviz"
+            android:icon="@drawable/ic_doviz"
+            android:title="Döviz Kurları" />
+
+        <item
+            android:id="@+id/menu_coin"
+            android:icon="@drawable/ic_gold"
+            android:title="Altın Kurları" />
+
+    </group>
+
+
+    <group android:checkableBehavior="single">
+        <item android:title="Veri Yönetimi">
+
+            <menu>
+                <item
+                    android:id="@+id/new_month"
+                    android:icon="@drawable/ic_new"
+                    android:title="Yeni Aya Başla" />
+
+                <item
+                    android:id="@+id/add_money"
+                    android:icon="@drawable/ic_turkishlira"
+                    android:title="Para Ekle" />
+
+            </menu>
+        </item>
+    </group>
+
+
+    <group android:checkableBehavior="single">
+        <item android:title="Bana Ulaşın">
+            <menu>
+                <item
+                    android:id="@+id/menu_contact"
+                    android:icon="@drawable/ic_contact"
+                    android:title="İletişim" />
+
+            </menu>
+        </item>
+    </group>
+
+</menu>
